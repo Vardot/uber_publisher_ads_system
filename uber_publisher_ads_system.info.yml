@@ -1,7 +1,8 @@
 name: 'Uber Publisher Ads System'
 description: 'Ads System provides a way to manage Ads/Tags by entities and exposes in blocks.'
 type: module
+package: 'Uber Publisher'
 core_version_requirement: ^8 || ^9
 dependencies:
-  - ads_system
+  - ads_system:ads_system
 package: 'Uber Publisher'
